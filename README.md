@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![LeetCode](https://leetcard.jacoblin.cool/mxsrdesu?theme=dark&font=Noto%20Sans)
+![Codewars](https://www.codewars.com/users/mxsrdesu/badges/large?theme=dark)
 <!--
 **mxsrdesu/mxsrdesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -12,11 +12,11 @@
 ---
 
 ## 🛠 Projects
-
-- Frontend Engineer at [**Lama Cash**](https://t.me/LamaAppBot) – Telegram mini app to earn money by playing simple games and watching ads 💸🎮  
-- Creator and maintainer of some [**circular videoplayer library**](https://github.com/ShibiTube/react-telebubble-player) for React projects 🎥🔄  
-- Some CLI utility that helps with Adobe Animate banners (private use, closed-source) ✨📦  
-- Some closed SaaS that helps automate PR code reviews & updating documentation with AI agents (coming soon!) 🤖📝  
+- 🧠 Founder at some closed SaaS that helps automate PR code reviews & updating documentation with AI agents (coming soon!) 🤖📝  
+- 👨‍💼 CTO / Tech Lead at a data-driven FoodTech startup, where lots of analytics and Computer Vision things happen 🍽📈
+- 🎮 Frontend Engineer at [**Lama Cash**](https://t.me/LamaAppBot) — Telegram Mini App that lets users earn by playing games and watching ads 💸
+- 🎥 Creator & maintainer of [**circular videoplayer library**](https://github.com/ShibiTube/react-telebubble-player) — a circular video player library for React projects 🔄
+- 📦 Author of some CLI utility that helps with Adobe Animate banners (private use, closed-source) ✨
 
 ---
 

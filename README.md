@@ -15,7 +15,6 @@
 - 👨‍💼 CTO / Tech Lead at a data-driven FoodTech startup, where lots of analytics and Computer Vision things happen 🍽📈
 - 🎮 Frontend Engineer at [**Lama Cash**](https://t.me/LamaAppBot) — Telegram Mini App that lets users earn by playing games and watching ads 💸
 - 🎥 Creator & maintainer of [**circular videoplayer library**](https://github.com/ShibiTube/react-telebubble-player) — a circular video player library for React projects 🔄
-- 📦 Author of some CLI utility that helps with Adobe Animate banners (private use, closed-source) ✨
 
 ---
 

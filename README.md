@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Maxim *mxsrdesu* Sirenev 🌸
 
-💻 **Software Engineer** | Frontend & Backend lover | AI & LLM enthusiast 🤖💜
+💻 **CTO | Tech Lead** | Vibe Coder | Software Engineer | AI & LLM enthusiast with 6+ YoE 🤖💜
 
 ---
 

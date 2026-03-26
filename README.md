@@ -4,13 +4,6 @@
 
 ---
 
-## 🚀 Tech Stack
-- **Frontend:** React, TypeScript, JavaScript  
-- **Backend:** Python, FastAPI  
-- **Other:** Node.js, Docker, CI/CD  
-
----
-
 ## 🛠 Projects
 - 👨‍💻 Founder at [**Monitorly Cloud**](https://app.monitorly.cloud) - monitoring platform that helps track the health of infrastructure 🛰
 - 👨‍💼 CTO / Tech Lead at a data-driven FoodTech startup, where lots of analytics and Computer Vision things happen 🍽📈

@@ -5,29 +5,30 @@
 ---
 
 ## 🛠 Projects
-- 👨‍💻 Founder at [**Monitorly Cloud**](https://app.monitorly.cloud) - monitoring platform that helps track the health of infrastructure 🛰
-- 👨‍💼 CTO / Tech Lead at a data-driven FoodTech startup, where lots of analytics and Computer Vision things happen 🍽📈
-- 🎥 Creator & maintainer of [**circular videoplayer library**](https://github.com/ShibiTube/react-telebubble-player) — a circular video player library for React projects 🔄
+- CTO / Co-Founder at [**FrontFlow**](https://frontflow.yocoge.com/) - self-service kiosks for small businesses, cafes, retail shops, etc 🥗
+- Founder at [**Monitorly Cloud**](https://app.monitorly.cloud) - monitoring platform that helps track the health of infrastructure 🛰
+- CTO / Tech Lead at a data-driven FoodTech startup, where lots of analytics and Computer Vision things happen 🍽📈
+- Creator & maintainer of [**circular videoplayer library**](https://github.com/ShibiTube/react-telebubble-player) — a circular video player library for React projects 🔄
 
 ---
 
-## 📫 Contacts
-- [LinkedIn](https://www.linkedin.com/in/mxsrdesu/) 🔗  
-- [Telegram](https://t.me/mxsrdesu) 💬  
+## Contacts
+- [LinkedIn](https://www.linkedin.com/in/mxsrdesu/)  
+- [Telegram](https://t.me/mxsrdesu)
 
 ---
 
-## 🌐 Languages
+## Languages
 - English: C1  
 - Russian: Native  
 
 ---
 
-## 💡 Fun fact
+## Fun fact
 I’m hopelessly in love with **AI and LLMs** (xd) 🤓💜  
 Always experimenting with new tools, building cool stuff, and learning something wild every day 🚀
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Maxim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxsrdesu&show_icons=true&theme=radical)
